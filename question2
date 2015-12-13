@@ -1,1 +1,5 @@
 Explain what the 'upstream' remote is usually used for, in your own words
+
+Usually the upstream remote is a directory on a server where you hold a copy of your own repository. In case of a local crash you can easily clone the remote back to your own laptop.
+It is also the central repo when more people are working on the same project.
+It can also be used to make your repo publicly available.
